@@ -1,0 +1,11 @@
+test_loss: 4.1820 | test_accuracy: 0.3987
+test_loss: 0.7556 | test_accuracy: 0.7320
+test_loss: 0.7353 | test_accuracy: 0.7487
+test_loss: 0.7266 | test_accuracy: 0.7831
+test_loss: 1.3125 | test_accuracy: 0.7380
+test_loss: 0.7235 | test_accuracy: 0.8354
+test_loss: 0.7285 | test_accuracy: 0.8164
+test_loss: 0.9301 | test_accuracy: 0.7796
+test_loss: 0.8698 | test_accuracy: 0.7897
+test_loss: 1.2411 | test_accuracy: 0.7190
+test_loss: 0.8426 | test_accuracy: 0.8105

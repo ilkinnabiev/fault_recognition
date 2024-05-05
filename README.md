@@ -51,6 +51,22 @@ Below is the code for saving the image and labels as a NumPy array in .npy forma
 np.save('images.npy', images)
 np.save('labels.npy', cluster_labels)
 ```
+## Clustering results
+
+During the research it was decided to cluster defects into 3 clusters. There are assumptions that each cluster has something like a level of significance of the defect.
+Final classes and defect descriptions:
+
+* **Scratches** label 2: defect significance level strong
+* **Holes** label 1: defect significance level medium
+* **Bulges** label 0: defect significance level weak
+
+
+## Classification result
+
+For classification it was decided to use ResNet18 and as a metric I took simple accuracy, the model showed quite good results on the test data:
+
+* **Accuracy** 84%
+
 
 ## Visualization of model training
 
