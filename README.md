@@ -1,10 +1,10 @@
 # Fault Recognition
 
-* **clusterization.ipynb:** This notebook implements analysis and clustering of pre-cropped defects.
+* **`clusterization.ipynb`:** This notebook implements analysis and clustering of pre-cropped defects.
 
-* **classification_model.ipynb:** In this notebook, I have trained a convolutional neural network ResNet18 for training defect classification.
+* **`classification_model.ipynb`:** In this notebook, I have trained a convolutional neural network ResNet18 for training defect classification.
 
-* **model_checkpoint:** This folder stores the model weights obtained after training in `classification_model.ipynb`.
+* **`model_checkpoint`:** This folder stores the model weights obtained after training in `classification_model.ipynb`.
 
 ## `requirements.txt`
 Install libraries for successful launching of project:
